@@ -592,8 +592,16 @@ flex-wrap: wrap;
 	.massage{
 		flex-direction: column;
 		justify-content: center;
+		margin-bottom: 0;
 	}
 	.massaging{
 		margin: 0 auto 107px auto;
+	}
+	.part5{
+		margin: 0;
+	}
+	.contacts {
+		height: 330px;
+
 	}
 }
